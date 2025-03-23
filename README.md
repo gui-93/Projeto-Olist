@@ -5,6 +5,11 @@ Utilizei a linguagem Python, através do Jupyter Notebook, para importar e proce
 
 Em seguida, realizei análises exploratórias para identificar padrões e tendências nos dados. Após a análise, utilizei o comando para salvar a tabela limpa em formato CSV, permitindo sua utilização no Google Looker Studio.
 
-Finalizei o projeto criando um dashboard interativo no Google Looker Studio, contendo insights acionáveis e visuais. O [DASHBOARD](https://lookerstudio.google.com/reporting/d46ceffd-4a0b-4293-9b0e-58df2cf63509) está disponível para acesso.
+Finalizei o projeto criando um dashboard interativo no Google Looker Studio, contendo insights acionáveis e visuais. O [DASHBOARD](https://lookerstudio.google.com/reporting/d46ceffd-4a0b-4293-9b0e-58df2cf63509)
+está disponível para acesso.
 
 Os arquivos utilizados no projeto, incluindo as 9 planilhas originais e a planilha processada, estão disponíveis na pasta. O projeto demonstra minhas habilidades em análise de dados, pré-processamento, visualização de dados e criação de dashboards interativos
+
+<div align="center>
+<img src="![Image](https://github.com/user-attachments/assets/b3c7d04c-e932-42bc-9ba0-978cb7cfe02e)" width="700px" />
+</div>
