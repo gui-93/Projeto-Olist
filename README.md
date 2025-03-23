@@ -1,7 +1,7 @@
 # Projeto Olist E Commerce
  Realizei um projeto de análise de dados utilizando o conjunto de dados públicos de comércio eletrônico brasileiro da Olist, disponível no site da Kaggle. Os dados foram obtidos em formato CSV e consistiam em 9 planilhas.
 
-Utilizei a linguagem Python, através do Jupyter Notebook, para importar e processar os dados. Após a importação, utilizei técnicas de pré-processamento para juntar as planilhas em uma única tabela e realizar a limpeza dos dados.
+Utilizei a linguagem Python, através do Jupyter Notebook, para importar e processar os dados. Após a importação, utilizei técnicas de pré-processamento para juntar as planilhas em uma única tabela e realizar a limpeza dos dados.[Arquivo Python](https://github.com/gui-93/Projeto-Olist/blob/main/analise.ipynb)
 
 Em seguida, realizei análises exploratórias para identificar padrões e tendências nos dados. Após a análise, utilizei o comando para salvar a tabela limpa em formato CSV, permitindo sua utilização no Google Looker Studio.
 
