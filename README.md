@@ -3,7 +3,7 @@
 
 Utilizei a linguagem Python, através do Jupyter Notebook, para importar e processar os dados. Após a importação, utilizei técnicas de pré-processamento para juntar as planilhas em uma única tabela e realizar a limpeza dos dados.[Arquivo Python](https://github.com/gui-93/Projeto-Olist/blob/main/analise.ipynb)
 
-Em seguida, realizei análises exploratórias para identificar padrões e tendências nos dados. Após a análise, utilizei o comando para salvar a tabela limpa em formato CSV, permitindo sua utilização no Google Looker Studio.
+Em seguida, realizei análises exploratórias para identificar padrões e tendências nos dados. Após a análise, utilizei o comando para salvar a tabela limpa em formato CSV, permitindo sua utilização no Google Looker Studio.[Planilha limpa](https://github.com/gui-93/Projeto-Olist/blob/main/planilha_limpa.csv)
 
 Finalizei o projeto criando um dashboard interativo no Google Looker Studio, contendo insights acionáveis e visuais. O [DASHBOARD](https://lookerstudio.google.com/reporting/d46ceffd-4a0b-4293-9b0e-58df2cf63509)
 está disponível para acesso.
